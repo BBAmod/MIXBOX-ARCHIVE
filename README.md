@@ -70,7 +70,7 @@ https://cdn.jsdelivr.net/gh/monlor/mbfiles
 #### 一键安装
 
 ``` shell
-sh -c "$(curl -kfsSl https://cdn.jsdelivr.net/gh/monlor/mbfiles/install.sh)" && source /etc/profile &> /dev/null
+sh -c "$(curl -kfsSl https://cdn.jsdelivr.net/gh/BBAmod/MIXBOX-ARCHIVE/install.sh)" && source /etc/profile &> /dev/null
 ```
 
 #### github源一键安装命令
